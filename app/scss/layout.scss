@@ -1,0 +1,23 @@
+// layout.scss
+
+
+.testing {
+    font-size: 44px;
+}
+
+body {
+    background-color: gray;
+    font-size: 44px;
+
+    .container {
+        display: flex;
+
+        p {
+            text-align: center;
+            width: 100%;
+            margin: 0 auto 0 auto;
+            justify-content: space-between;
+            padding-top: 50px;
+        }
+    }
+}
