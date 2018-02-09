@@ -6,6 +6,7 @@ Requirements:
 Clone Repository and run the following for development:
 
 chmod +x npm-fast-install.sh
+
 ./npm-fast-install.sh
 
 (despite the name of this script, it is not particularly fast, so go grab some coffee and come back)
