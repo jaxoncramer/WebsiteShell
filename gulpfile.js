@@ -100,6 +100,9 @@ gulp.task('browserSync', function () {
         server: {
             baseDir: 'app' //"app" folder is the root of the server for browser sync
         },
+        ui: {
+            port: 8756
+        }
     })    
 });
 
